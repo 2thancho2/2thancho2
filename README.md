@@ -22,14 +22,14 @@ since 2022
 
 ## 🚀 About Me
 
-- 🧑‍💻 Developer Since 2022
+- 🇰🇷 2011.12.05
+- 🧑‍💻 Developer
 - 🌐 Web Developer
 - 🐍 Python Developer
 - ⌨️ C, Cpp, C# Developer
 - 🤖 Discord Bot Developer
 - 💾 Arduino and Raspberry Pi developer
 - 🎮 Game & Interactive Project Builder
-- 🧪 I like creating new ideas myself.
 
 ---
 
